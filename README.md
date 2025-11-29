@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Browser Extension, MERN Stack**
 
-- 📫 How to reach me **hello@ghulamhussain.dev**
+- 📫 How to reach me **hello@hussain3kb.com**
 
 
 <h3 align="left">Connect with me:</h3>
