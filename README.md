@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://ghulamhussain.dev)
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with 3+ years of experience in building modern web applications and browser extensions.</h3>
 
@@ -9,9 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, cloud Computing, AI Integration**
 
-- 💬 Ask me about **Browser Extension, MERN Stack**
-
-- 📫 How to reach me **hello@hussain3kb.com**
+- 💬 Ask me about **Browser Extensions, MERN Stack**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain3kb&show_icons=true&locale=en&layout=compact" alt="hussain3kb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain3kb&show_icons=true&locale=en" alt="hussain3kb" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain3kb&show_icons=true&locale=en" alt="hussain3kb" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3kb&" alt="hussain3kb" /></p>
